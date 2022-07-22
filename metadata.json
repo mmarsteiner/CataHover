@@ -1,0 +1,14 @@
+{
+  "name": "CataHover",
+  "creator": "SirCoderOfJava",
+  "description": "Shows cata level in party finder and allows you to see the cata and class levels of players with commands",
+  "entry": "index.js",
+  "version": "1.0.0",
+  "requires": [
+	"requestV2",
+	"PogData",
+	"Vigilance",
+	"CustomTabCompletions",
+  "PromiseV2"
+  ]
+}
